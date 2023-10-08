@@ -6,6 +6,7 @@ INSTALLATION
 2. Install the required Python libraries
 
 DATA
+
 The dataset used in this project is the Sonar dataset. It consists of 208 observations, each with 60 feature columns and a target label ('R' for rock or 'M' for mine).
 Dataset: Sonar dataset
 
